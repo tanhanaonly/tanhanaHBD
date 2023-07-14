@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/BLACK001.png"  ]
+[preload  storage="./data/bgimage/wa01.png"  ]
+[preload  storage="./data/bgimage/tan02.png"  ]
+[preload  storage="./data/bgimage/ohayo01.png"  ]
+[preload  storage="./data/bgimage/hanaki01.png"  ]
+[preload  storage="./data/bgimage/yoru02.png"  ]
+[preload  storage="./data/bgimage/yoru01.png"  ]
+[return]
